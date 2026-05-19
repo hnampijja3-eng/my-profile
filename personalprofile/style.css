@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    font-family: arial;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+
+p {
+    color: black;
+    font-size: 18px;
+}
+
+h2 {
+    color: black;
+    font-size: 18px;
+}
+
+box {
+    background-color: antiquewhite;
+    border: 2px solid black;
+    padding: 20px;
+    margin: 20px;
+}
